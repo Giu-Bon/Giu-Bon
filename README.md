@@ -16,7 +16,7 @@ _**[German version](https://github.com/Giu-Bon/Giu-Bon/blob/main/CV/README_de.md
     📜 **I love Obsidian.**  
     🗣️ **I'm fluent in English & German.** _(the latter is my native language)_  
     🎮 **I love Gaming.**  
-    🔧 **I love Tinkering.**  
+    🔧 **I love Tinkering/Ricing.**  
 
 >✨ I do things **wholeheartedly**.
 
@@ -24,14 +24,14 @@ _**[German version](https://github.com/Giu-Bon/Giu-Bon/blob/main/CV/README_de.md
 
 ## 🚀 My Journey  
 My passion for IT started with **video games** and frustration with **Windows' limitations**.  
-🔹 Transitioned to **Linux** (Fedora) – a total game-changer!  
+🔹 Transitioned to **Linux** – a total game-changer!  
 🔹 Started **self-hosting** game servers & services for friends & family.  
 🔹 Now optimizing my **homelab** and diving deep into the **NixOS** rabbit hole. 🕳️🐇  
 
 ---
 
 ## 🛠 Technical Skills ⚙️  
-💡 For a full breakdown of my experience, check out my **[CV Repository](https://github.com/Giu-Bon/Giu-Bon/blob/main/CV/README.md)**.  
+💡 For a full breakdown of my experience, check out my **[CV](https://github.com/Giu-Bon/Giu-Bon/blob/main/CV/README.md)**.  
 📜 A **[German version](https://github.com/Giu-Bon/Giu-Bon/blob/main/CV/README_de.md)** is also available.  
 
 ---
