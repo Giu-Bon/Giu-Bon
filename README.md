@@ -69,7 +69,7 @@ _"If you're skilled in the terminal, you can use almost any Linux distro. The ma
 > *“A computer is like air conditioning – it becomes useless when you open Windows.”*  
 > ~ Linus Torvalds  
 
-> *"Self-hosting is the best way if you want privacy."*  
+> *"Self-hosting is the only real way if you want privacy."*  
 > ~ Giu  
 
 ---
