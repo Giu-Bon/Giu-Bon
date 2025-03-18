@@ -1,5 +1,5 @@
 # 👋 Hi there! I'm Giu 🚀  
-_**[German version](https://github.com/Giu-Bon/Giu-Bon/blob/main/CV/README_de.md)**_
+_**[German version](https://github.com/Giu-Bon/Giu-Bon/blob/main/README_de.md)**_
 
 ## 🏗 About Me 🔧  
 👨‍💻 **Sysadmin | Linux Enthusiast | Tinkerer**  
