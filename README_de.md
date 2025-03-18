@@ -1,4 +1,4 @@
-# 👋 Hallo! Ich bin Giu 🚀  
+# 👋 Hi! Ich bin Giu 🚀  
 _**[Englische Version](https://github.com/Giu-Bon/Giu-Bon/blob/main/CV/README.md)**_
 
 ## 🏗 Über mich 🔧  
