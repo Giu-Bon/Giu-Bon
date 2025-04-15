@@ -4,6 +4,7 @@ _**[German version](https://github.com/Giu-Bon/Giu-Bon/blob/main/README_de.md)**
 ## 🏗 About Me 🔧  
 👨‍💻 **Sysadmin | Linux Enthusiast | Tinkerer**  
 🌱 I’m currently learning many things to figure out where I really want my career to go:  
+- 💻 **IT-Servicemanager**  
 - 🛠 **DevOps**  
 - 🔐 **Cybersecurity**  
 - 🤖 **AI-Admin**  
@@ -74,4 +75,5 @@ _"If you're skilled in the terminal, you can use almost any Linux distro. The ma
 
 ---
 
+## Don't forget: 
 🚀 **Keep exploring, keep tinkering, and never stop learning!** 🛠️🔥
