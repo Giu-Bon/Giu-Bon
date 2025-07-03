@@ -1,63 +1,89 @@
-# 👋 Hi! Ich bin Giu 🚀  
-_**[Englische Version](https://github.com/Giu-Bon/Giu-Bon/blob/main/CV/README.md)**_
+# 👋 Hi! Ich bin Giu
 
-## 🏗 Über mich 🔧  
-👨‍💻 **Sysadmin | Linux-Enthusiast | Bastler**  
-🌱 Ich lerne momentan viele Dinge, um herauszufinden, wohin meine Karriere wirklich gehen soll:  
-- 🛠 **DevOps**  
-- 🔐 **Cybersecurity**  
-- 🤖 **AI-Admin**  
-- 🐧 **Linux Administration**  
+***[Englische Version](https://github.com/Giu-Bon/Giu-Bon/blob/main/CV/README.md)***
 
-🎮 **Gamer & Tech Enthusiast** | 🏡 **Self-Hoster**  
+## Über mich
 
->📢 **Fun Facts:**  
->>⚡ **I use Fedora btw.**_(Wechsle zu NixOS)_  
-    📜 **Ich liebe Obsidian.**  
-    🗣️ **Ich spreche fließend Deutsch & Englisch.** _(Deutsch ist meine Muttersprache)_  
-    🎮 **Ich liebe Gaming.**  
-    🔧 **Ich liebe Tinkering/Ricing.**  
+**Sysadmin | Linux-Enthusiast | Bastler**
 
->✨ I do things **wholeheartedly**.
----
+Ich befinde mich aktuell in einer Lernphase, um herauszufinden, wohin mein beruflicher Weg wirklich gehen soll:
 
-## 🚀 Mein Weg  
-Meine Leidenschaft für IT begann mit **Videospielen** und der Frustration über **Windows' Einschränkungen**.  
-🔹 Wechsel zu **Linux** – beste Entscheidung die ich gemacht habe !  
-🔹 Begann mit dem **Self-Hosting** von Gameservern & anderen für meine Freunde & Familie.  
-🔹 Optimiere jetzt mein **Homelab** und habe mich im **NixOS-Rabbit-Hole** verloren. 🕳️🐇  
+* DevOps
+* Cybersecurity
+* AI-Administration
+* Linux-Administration
+
+Zudem: Tech-Enthusiast, Gamer und überzeugter Self-Hoster.
+
+> **Fun Facts:**
+>
+> * Ich nutze Fedora (Wechsel zu NixOS geplant)
+> * Ich liebe Obsidian
+> * Deutsch ist meine Muttersprache – ich spreche auch fließend Englisch
+> * Gaming gehört zu meinen größten Hobbys
+> * Ich liebe es zu basteln, zu "ricen" und Systeme zu optimieren
+
+Ich gehe Dinge mit Leidenschaft und vollem Einsatz an.
 
 ---
 
-## 🛠 Technische Fähigkeiten ⚙️  
-💡 Eine detaillierte Übersicht meiner Erfahrung findest du in meinem **[CV](https://github.com/Giu-Bon/Giu-Bon/blob/main/CV/README_de.md)**.  
-📜 Eine **[englische Version](https://github.com/Giu-Bon/Giu-Bon/blob/main/CV/README.md)** ist ebenfalls vorhanden.  
+## Mein Weg
+
+Meine Begeisterung für IT begann mit Videospielen – und Frust über die Einschränkungen von Windows.
+
+* Der Umstieg auf Linux war ein Wendepunkt.
+* Ich begann mit dem Self-Hosting von Gameservern und Diensten für Freunde und Familie.
+* Inzwischen optimiere ich mein Homelab und tauche immer tiefer in die Welt von NixOS ein.
 
 ---
 
-## 🎯 Aktuelle Schwerpunkte 🎯  
-🔹 **NixOS** → Migration meiner **Minecraft-Server** 🏗️  
-🔹 **Cybersecurity** → Übungen mit **Hack the Box Academy & Vulnhub.** 🕵️‍♂️  
-🔹 **Homelab-Optimierung** → Kontinuierliche Verbesserungen & Automatisierung. ⚡  
-🔹 **Lebenslanges Lernen** → Es gibt immer etwas Neues! 📚  
+## Technische Fähigkeiten
 
-📌 **Mehr Details & Updates:** **[Aktuelle Projekte](https://github.com/Giu-Bon/Giu-Bon/blob/main/current-projects.md)**  
+Eine vollständige Übersicht findest du in meinem [CV auf Deutsch](https://github.com/Giu-Bon/Giu-Bon/blob/main/CV/README_de.md) oder der [englischen Version](https://github.com/Giu-Bon/Giu-Bon/blob/main/CV/README.md).
 
 ---
 
-## 📂 Dieses Repository 📁  
-Hier findest du:  
-✅ **Persönliche Projekte, Konfigurationen & Skripte**  
-✅ **Homelab-Automatisierung & Sicherheits-Guides** _(zukünftig)_  
-✅ **Linux-, Windows- & Netzwerk-Tipps** _(noch nicht)_  
-✅ **Tech-Meinungen & Blogposts** _(später)_  
+## Aktuelle Schwerpunkte
+
+* Migration meines Minecraft-Servers nach NixOS
+* Cybersecurity-Labs mit Hack the Box Academy & Vulnhub
+* Kontinuierliche Optimierung und Automatisierung meines Homelabs
+* Lebenslanges Lernen rund um IT, Linux und Security
+
+Mehr dazu unter: [Aktuelle Projekte](https://github.com/Giu-Bon/Giu-Bon/blob/main/current-projects.md)
 
 ---
 
-## 📬 Kontakt 📧  
-📧 **E-Mail:** [gboncristiano@proton.me](mailto:gboncristiano@proton.me)  
+## Über dieses Repository
 
+Hier findest du:
+
+* Persönliche Projekte, Konfigurationen und Skripte
+* Homelab-Automatisierung & Sicherheits-Guides (in Planung)
+* Linux-, Windows- & Netzwerk-Tipps (folgt)
+* Tech-Meinungen und Blogposts (geplant)
 
 ---
 
-🚀 **Bleib neugierig, bleib ein Bastler und höre nie auf zu lernen!** 🛠️🔥
+## Kontakt
+
+📧 E-Mail: [gboncristiano@proton.me](mailto:gboncristiano@proton.me)
+
+---
+
+## Mein Blick auf Technik
+
+> *"Wenn du dich im Terminal auskennst, kannst du fast jede Linux-Distribution nutzen. Meist unterscheiden sie sich nur im Paketmanager und dem voreingestellten Desktop – Ausnahmen bestätigen die Regel."*
+
+> *„Ein Computer ist wie eine Klimaanlage – er wird nutzlos, wenn man Windows öffnet.“*
+> — Linus Torvalds
+
+> *„Wer echte Privatsphäre will, muss selbst hosten.“*
+> — Giu
+
+---
+
+## Zum Schluss
+
+**Bleib neugierig, bleib ein Bastler – und hör nie auf zu lernen.**
+
