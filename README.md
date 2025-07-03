@@ -1,79 +1,92 @@
-# 👋 Hi there! I'm Giu 🚀  
-_**[German version](https://github.com/Giu-Bon/Giu-Bon/blob/main/README_de.md)**_
+# 👋 Hi there! I'm Giu
 
-## 🏗 About Me 🔧  
-👨‍💻 **Sysadmin | Linux Enthusiast | Tinkerer**  
-🌱 I’m currently learning many things to figure out where I really want my career to go:  
-- 💻 **IT-Servicemanager**  
-- 🛠 **DevOps**  
-- 🔐 **Cybersecurity**  
-- 🤖 **AI-Admin**  
-- 🐧 **Linux Administration**  
+***[German/Deutsche version](https://github.com/Giu-Bon/Giu-Bon/blob/main/README_de.md)***
 
-🎮 **Gamer & Tech Enthusiast** | 🏡 **Self-Hoster**  
-  
->📢 **Fun Facts:**  
->>⚡ **I use Fedora btw.** _(switching to NixOS)_  
-    📜 **I love Obsidian.**  
-    🗣️ **I'm fluent in English & German.** _(the latter is my native language)_  
-    🎮 **I love Gaming.**  
-    🔧 **I love Tinkering/Ricing.**  
+## About Me
 
->✨ I do things **wholeheartedly**.
+**Sysadmin | Linux Enthusiast | Tinkerer**
 
----
+I'm currently exploring different paths in IT to find where I truly want to focus my career:
 
-## 🚀 My Journey  
-My passion for IT started with **video games** and frustration with **Windows' limitations**.  
-🔹 Transitioned to **Linux** – a total game-changer!  
-🔹 Started **self-hosting** game servers & services for friends & family.  
-🔹 Now optimizing my **homelab** and diving deep into the **NixOS** rabbit hole. 🕳️🐇  
+* IT Service Management
+* DevOps
+* Cybersecurity
+* AI Systems Administration
+* Linux Administration
+
+Also: tech enthusiast, passionate gamer, and dedicated self-hoster.
+
+> **Fun Facts:**
+> • I use Fedora (switching to NixOS)
+> • I love Obsidian
+> • Fluent in English & German (native speaker)
+> • Tinkering is my favorite pastime
+> • Gaming keeps me inspired
+
+I approach everything I do with heart and dedication.
 
 ---
 
-## 🛠 Technical Skills ⚙️  
-💡 For a full breakdown of my experience, check out my **[CV](https://github.com/Giu-Bon/Giu-Bon/blob/main/CV/README.md)**.  
-📜 A **[German version](https://github.com/Giu-Bon/Giu-Bon/blob/main/CV/README_de.md)** is also available.  
+## My Journey
+
+My passion for IT started with video games and a lot of frustration with Windows.
+
+* Switching to Linux was a game-changer.
+* I started self-hosting game servers and useful services for friends and family.
+* These days I’m optimizing my homelab and diving deep into the NixOS rabbit hole.
 
 ---
 
-## 🎯 Current Focus 🎯  
-🔹 **NixOS** → Migrating my **Minecraft Server** for easier deployment. 🏗️  
-🔹 **Cybersecurity** → Practicing with **Hack the Box Academy & Vulnhub.** 🕵️‍♂️  
-🔹 **Homelab Optimization** → Continuous improvements & automation. ⚡  
-🔹 **Lifelong Learning** → There’s always something new! 📚  
+## Technical Skills
 
-📌 **More details & updates:** **[Current Projects](https://github.com/Giu-Bon/Giu-Bon/blob/main/current-projects.md)**  
+For a detailed look at my experience, check out my [CV (English)](https://github.com/Giu-Bon/Giu-Bon/blob/main/CV/README.md) or [CV (German)](https://github.com/Giu-Bon/Giu-Bon/blob/main/CV/README_de.md).
 
 ---
 
-## 📂 This Repository 📁  
-This space will feature:  
-✅ **Personal projects, configurations & scripts**  
-✅ **Homelab automation & security guides** _(future)_  
-✅ **Linux, Windows & Networking tips** _(not yet)_  
-✅ **Tech opinions & blog posts** _(later)_  
+## Current Focus
+
+* Migrating my Minecraft Server to NixOS for easier deployment
+* Practicing cybersecurity with Hack the Box Academy & Vulnhub
+* Continuously improving and automating my homelab
+* Lifelong learning in all things tech
+
+See more: [Current Projects](https://github.com/Giu-Bon/Giu-Bon/blob/main/current-projects.md)
 
 ---
 
-## 📬 Contact 📧  
-📧 **Email:** [gboncristiano@proton.me](mailto:gboncristiano@proton.me)  
+## This Repository
+
+Here you'll find:
+
+* Personal projects, configurations, and scripts
+* Homelab automation and security guides (coming soon)
+* Linux, Windows, and networking tips (in progress)
+* Blog posts and tech takes (planned)
 
 ---
 
-## 🔥 My Take on Tech 💡  
+## Contact
 
-💡 **Not-So-Hot Take:**  
-_"If you're skilled in the terminal, you can use almost any Linux distro. The main differences are the package manager and default DE. There are exceptions, but in most cases, it's unnoticeable."_  
-
-🔥 **Hot Take:**  
-> *“A computer is like air conditioning – it becomes useless when you open Windows.”*  
-> ~ Linus Torvalds  
-
-> *"Self-hosting is the only real way if you want privacy."*  
-> ~ Giu  
+Email: [gboncristiano@proton.me](mailto:gboncristiano@proton.me)
 
 ---
 
-## Don't forget: 
-🚀 **Keep exploring, keep tinkering, and never stop learning!** 🛠️🔥
+## My Take on Tech
+
+**Not-So-Hot Take:**
+
+> *"If you're skilled in the terminal, you can use almost any Linux distro. The main differences are the package manager and default DE. There are exceptions, but in most cases, it's unnoticeable."*
+
+**Hot Takes:**
+
+> *"A computer is like air conditioning – it becomes useless when you open Windows."*
+> — Linus Torvalds
+
+> *"Self-hosting is the only real way if you want privacy."*
+> — Giu
+
+---
+
+## Final Thought
+
+**Keep exploring, keep tinkering, and never stop learning.**
